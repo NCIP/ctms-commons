@@ -1,3 +1,9 @@
+<%--
+Copyright Northwestern University and SemanticBits, LLC
+
+Distributed under the OSI-approved BSD 3-Clause License.
+See http://ncip.github.com/ctms-commons/LICENSE.txt for details.
+--%>
 <%@ page session="true" %>
 <%@ page pageEncoding="UTF-8" %>
 <%@ page contentType="text/html; charset=UTF-8" %>

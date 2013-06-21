@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright Northwestern University and SemanticBits, LLC
+  
+  Distributed under the OSI-approved BSD 3-Clause License.
+  See http://ncip.github.com/ctms-commons/LICENSE.txt for details.
+-->
 <ivy-module version="1.4">
 		
     	<info organisation="gov.nih.nci.ccts.grid" module="StudyConsumer" revision="1.2-local-20080725180144" status="integration" publication="20080725180144"/>

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright Northwestern University and SemanticBits, LLC
+  
+  Distributed under the OSI-approved BSD 3-Clause License.
+  See http://ncip.github.com/ctms-commons/LICENSE.txt for details.
+-->
 <logging-config>
 	<logger-name>CSM.Audit.Logging.ObjectState.Authorization</logger-name>
 	<logger-config-file>log4jConfig.xml</logger-config-file>

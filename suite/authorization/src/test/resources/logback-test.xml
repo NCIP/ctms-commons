@@ -1,3 +1,9 @@
+<!--
+  Copyright Northwestern University and SemanticBits, LLC
+  
+  Distributed under the OSI-approved BSD 3-Clause License.
+  See http://ncip.github.com/ctms-commons/LICENSE.txt for details.
+-->
 <configuration debug="true">
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
         <layout class="ch.qos.logback.classic.PatternLayout">

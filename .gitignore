@@ -11,3 +11,11 @@ build/*.properties
 *.log
 
 grid/*/*/*/build
+
+
+.classpath
+.project
+build
+bin
+
+

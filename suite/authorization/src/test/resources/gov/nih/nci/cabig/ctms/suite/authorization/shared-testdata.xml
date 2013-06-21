@@ -1,3 +1,9 @@
+<!--
+  Copyright Northwestern University and SemanticBits, LLC
+  
+  Distributed under the OSI-approved BSD 3-Clause License.
+  See http://ncip.github.com/ctms-commons/LICENSE.txt for details.
+-->
 <dataset>
   <CSM_USER user_id="-26" login_name="alice" first_name="Alice" last_name="Wunderland"/>
   <CSM_USER user_id="-22" login_name="eve" first_name="Eve" last_name="Harlow"/>

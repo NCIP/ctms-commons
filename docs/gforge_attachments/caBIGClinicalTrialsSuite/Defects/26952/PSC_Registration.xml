@@ -1,3 +1,9 @@
+<!--
+  Copyright Northwestern University and SemanticBits, LLC
+  
+  Distributed under the OSI-approved BSD 3-Clause License.
+  See http://ncip.github.com/ctms-commons/LICENSE.txt for details.
+-->
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:reg="http://grid.ccts.nci.nih.gov/RegistrationConsumer" xmlns:gov="gme://ccts.cabig/1.0/gov.nih.nci.cabig.ccts.domain">
    <soapenv:Header/>
    <soapenv:Body>
