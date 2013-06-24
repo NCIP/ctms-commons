@@ -18,10 +18,10 @@ Getting Started
 * Fork the repository on GitHub to publish any proposed changes
 
 * Depending on which project you are working on, submit a ticket for your issue at:
-   `C3PR`_
-   `caAERS`_
-   `LabViewer`_
-   `Clinical Connector`_
+  - `C3PR`_
+  - `caAERS`_
+  - `LabViewer`_
+  - `Clinical Connector`_
 
 
   Assuming one does not already exist.
