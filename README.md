@@ -1,6 +1,5 @@
-ctms-commons
-============
-
+Welcome to the ctms-commons Project!
+=====================================
 This project is a collection of libraries for shared functionality
 across the CTMS workspace, and particularly among the applications in
 the Clinical Trials Suite.
