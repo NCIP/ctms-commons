@@ -4,6 +4,16 @@ This project is a collection of libraries for shared functionality
 across the CTMS workspace, and particularly among the applications in
 the Clinical Trials Suite.
 
+caAERS is distributed under the BSD 3-Clause License. Please see the NOTICE and LICENSE files for details.
+
+You will find more details about caAERS in the following links:
+
+* [NCI OSDI Home](https://github.com/NCIP)
+* [Documentation](https://github.com/NCIP/ctms-commons/tree/master/docs)
+* [Development Git repo](https://github.com/NCIP/ctms-commons)
+
+Please join us in further developing and improving ctms-commons.
+
 Using
 -----
 
