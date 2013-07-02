@@ -14,6 +14,24 @@ You will find more details about caAERS in the following links:
 
 Please join us in further developing and improving ctms-commons.
 
+# Prerequisites
+
+* JDK 1.6
+* buildr 1.4.6 on jruby 1.6.2.  Uses ivy4r for ivy integration.
+To set up a new development environment, install jruby and then use
+jruby to run `install_gems.rb` in the root of the project.
+* PostgreSQL 9.x
+* apache ant 1.7.x 
+
+# Building
+
+This library is built with buildr.  As of this writing, it works with
+buildr 1.4.6 on jruby 1.6.2.  It uses ivy4r for ivy integration.
+
+To set up a new development environment, install jruby and then use
+jruby to run `install_gems.rb` in the root of the project.
+
+
 Using
 -----
 
@@ -34,13 +52,6 @@ Development
 No commits that affect the public API may be made without an
 associated entry in the changelog.
 
-### Building
-
-This library is built with buildr.  As of this writing, it works with
-buildr 1.4.6 on jruby 1.6.2.  It uses ivy4r for ivy integration.
-
-To set up a new development environment, install jruby and then use
-jruby to run `install_gems.rb` in the root of the project.
 
 #### CI
 
