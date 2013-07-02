@@ -32,8 +32,10 @@ To set up a new development environment, install jruby and then use
 jruby to run `install_gems.rb` in the root of the project.
 
 
-Using
------
+# Development
+
+
+### Using
 
 ctms-commons is distributed on the [NCI CBIIT public ivy
 repository][cbiit-ivy].  The organization is `gov.nih.nci.cabig.ctms`.
@@ -44,8 +46,6 @@ patterns.
 
 [cbiit-ivy]: https://wiki.nci.nih.gov/display/BuildandDeploymentAutomation/Ivy-+How+to+retrieve+files+from+Ivy
 
-Development
------------
 
 ### Changes
 
