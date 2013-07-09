@@ -6,7 +6,7 @@ the Clinical Trials Suite.
 
 caAERS is distributed under the BSD 3-Clause License. Please see the NOTICE and LICENSE files for details.
 
-You will find more details about caAERS in the following links:
+You will find more details about ctms-commons in the following links:
 
 * [NCI OSDI Home](https://github.com/NCIP)
 * [Documentation](https://github.com/NCIP/ctms-commons/tree/master/docs)
