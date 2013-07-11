@@ -8,7 +8,6 @@ caAERS is distributed under the BSD 3-Clause License. Please see the NOTICE and 
 
 You will find more details about ctms-commons in the following links:
 
-* [NCI OSDI Home](https://github.com/NCIP)
 * [Documentation](https://github.com/NCIP/ctms-commons/tree/master/docs)
 * [Development Git repo](https://github.com/NCIP/ctms-commons)
 
